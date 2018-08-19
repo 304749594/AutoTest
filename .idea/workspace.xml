@@ -2,61 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d98bf51-49ad-40f8-adb1-d831adf6ee9e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter7/moco-runner-0.11.0-standalone.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vimalselvam_testng_extentsreport_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter/src/main/java/demo/TestMethodsDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter/src/main/resources/testng.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter6/Chapter6.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter6/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/ExtendTestNGIReporterListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/ExtendTestNGIReporterListenerOld.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/TestMethodsDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter6/src/main/resources/testng.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter7/startup1.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter7/startup11.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter7/startupGet.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter7/startupPost.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter7/startupwithRedirect.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter7/startupwithcookies.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter7/startupwithheader.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter7/基本操作说明" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/BasicAnnotation.class" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/BasicAnnotation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/DependTest.class" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/DependTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/ExpectedException.class" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/ExpectedException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/IgnoreTest.class" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/IgnoreTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/TimeOutTest.class" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/TimeOutTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/groups/GroupsOnClass1.class" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/groups/GroupsOnClass1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/groups/GroupsOnClass2.class" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/groups/GroupsOnClass2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/groups/GroupsOnClass3.class" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/groups/GroupsOnClass3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/groups/GroupsOnMethod.class" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/groups/GroupsOnMethod.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/multThread/MultiThreadOnAnnotion.class" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/multThread/MultiThreadOnAnnotion.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/multThread/MultiThreadOnXml.class" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/multThread/MultiThreadOnXml.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/paramter/DataProviderTest.class" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/paramter/DataProviderTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/paramter/PatamterTest.class" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/paramter/PatamterTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/suite/LoginTest.class" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/suite/LoginTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/suite/PayTest.class" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/suite/PayTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/suite/SuiteConfig.class" afterPath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/suite/SuiteConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter/Chapter5.iml" afterPath="$PROJECT_DIR$/Chapter/Chapter5.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter/pom.xml" afterPath="$PROJECT_DIR$/Chapter/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
     <ignored path="$PROJECT_DIR$/Chapter6/target/" />
@@ -893,7 +839,7 @@
       <workItem from="1534476966086" duration="1267000" />
       <workItem from="1534554277375" duration="15169000" />
       <workItem from="1534653859421" duration="152000" />
-      <workItem from="1534654048142" duration="4546000" />
+      <workItem from="1534654048142" duration="4887000" />
     </task>
     <task id="LOCAL-00001" summary="IDEA整合github测试">
       <created>1534474322503</created>
@@ -938,10 +884,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22651000" />
+    <option name="totallyTimeSpent" value="22992000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -955,10 +901,10 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26259378" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26259378" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
