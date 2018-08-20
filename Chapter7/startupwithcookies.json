@@ -1,4 +1,19 @@
-[
+[{
+  "description":"这是一个会返回cookies信息的GET请求",
+  "request":{
+    "uri":"/getCookies",
+    "method":"get"
+  },
+  "response":{
+    "cookies":{
+      "login":"true"
+    },
+    "text":"恭喜你会的cookies成功",
+    "headers":{
+      "Content-Type":"text/html;charset=gbk"
+    }
+  }
+},
   {
     "description":"这是一个带cookies信息的get请求",
     "request":{
@@ -9,7 +24,7 @@
       }
     },
     "response":{
-      "text":"这是一个需要携带cookies的get请求"，
+      "text":"这是一个需要携带cookies的get请求",
       "headers":{
         "Content-Type":"text/html;charset=gbk"
       }
