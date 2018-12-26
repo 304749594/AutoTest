@@ -1,10 +1,9 @@
 package com.course.server;
 
-import com.course.bean.User;
+import com.course.bean.UserV1;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.web.bind.annotation.*;
-import sun.invoke.util.VerifyAccess;
 
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
@@ -35,8 +34,8 @@ public class MyPostMethod {
     @RequestMapping(value = "/getUserList",method = RequestMethod.POST)
     @ApiOperation(value = "获取用户列表",httpMethod = "POST")
     public String getUserList(HttpServletRequest request,
-                            @RequestBody User u){
-        User user;
+                            @RequestBody UserV1 u){
+        UserV1 user;
         Cookie[] cookies=request.getCookies();
         //验证cookie是否合法
         for (Cookie c:cookies){
@@ -44,7 +43,7 @@ public class MyPostMethod {
                     &&c.getValue().equals("true")
                     &&u.getUserName().equals("zhangsan")
                     &&u.getPassWord().equals("123456")){
-                user=new User();
+                user=new UserV1();
                 user.setName("lisi");
                 user.setAge("18");
                 user.setSex("man");
